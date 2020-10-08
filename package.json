@@ -1,0 +1,19 @@
+{
+  "name": "docker-rookie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frickerg/docker-rookie.git"
+  },
+  "author": "frickerg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frickerg/docker-rookie/issues"
+  },
+  "homepage": "https://github.com/frickerg/docker-rookie#readme"
+}
